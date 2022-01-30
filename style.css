@@ -9,6 +9,10 @@
   font-family: Stanberry;
 }
 
+body {
+  background: #FFFAFD;
+}
+
 #container {
   min-height: calc(100vh - 80px);
   text-align: center;
